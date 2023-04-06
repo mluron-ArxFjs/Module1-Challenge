@@ -30,6 +30,6 @@ The client has requested a landing page that is optimized for search engines and
 ![Screeshot](https://github.com/mluron-ArxFjs/Module1-Challenge/blob/main/Assets/Horiseon%20screenshot.png))
 
 ### Contact
-- ![My GitHub](#https://github.com/mluron-ArxFjs)
+- ![GitHub](#https://github.com/mluron-ArxFjs)
 
 -![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(#mluron2@gmail.com)
