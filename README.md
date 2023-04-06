@@ -33,4 +33,4 @@ https://mluron-arxfjs.github.io/Module1-Challenge/
 ### Contact me
 - [GitHub](#https://github.com/mluron-ArxFjs)
 
--![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)mluron2@gmail.com
+- ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)mluron2@gmail.com
