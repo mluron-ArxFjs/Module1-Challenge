@@ -27,4 +27,4 @@ The client has requested a landing page that is optimized for search engines and
 ### Website Link
 
 ### Screenshot
-![screenshot](/assets/Horiseon screenshot.png)
+![screenshot](/Assets/Horiseon screenshot.png)
