@@ -28,3 +28,8 @@ The client has requested a landing page that is optimized for search engines and
 
 ### Screenshot
 ![screenshot](Assets/Horiseon screenshot.png)
+
+### Contact
+- [Support and Contact](#https://github.com/)
+
+-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
