@@ -27,7 +27,7 @@ The client has requested a landing page that is optimized for search engines and
 ### Website Link
 
 ### Screenshot
-![Screeshot](https://github.com/mluron-ArxFjs/Module1-Challenge/blob/main/Assets/Horiseon%20screenshot.png))
+![Screeshot](https://github.com/mluron-ArxFjs/Module1-Challenge/blob/main/Assets/Horiseon%20screenshot.png)
 
 ### Contact
 - ![GitHub](#https://github.com/mluron-ArxFjs)
