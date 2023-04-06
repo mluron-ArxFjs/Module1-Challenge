@@ -25,6 +25,7 @@ The client has requested a landing page that is optimized for search engines and
 * Added alt attributes to images
 
 ### Website Link
+https://mluron-arxfjs.github.io/Module1-Challenge/
 
 ### Screenshot
 ![Screeshot](./assets/images/Horiseon%20screenshot.png)
